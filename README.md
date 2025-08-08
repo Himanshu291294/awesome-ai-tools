@@ -183,6 +183,8 @@ We publish regular updates of this repo in the [Altern Newsletter](http://newsle
 - [Dear AI](https://www.dearai.online) - Supercharge Customer Services and boost sales with AI Chatbot.
 - [Inline Help](https://inlinehelp.com) - Answer customer questions before they ask
 - [Aidbase](https://www.aidbase.ai) - AI-Powered Support for your SaaS startup.
+- [Squadstack.ai](https://www.squadstack.ai) - AI-Powered Voice Agent for Presales lead qualification, Customer Support.
+- [Osno.ai](https://www.osno.ai) - No Code AI Voice Agent For Presales and Customer Support.
 
 
 ### Other text generators
